@@ -1,5 +1,5 @@
 # CASA0015-Cart-Companion-APP
-Your ultimate shopping list and membership card organizer.
+
 
 ## Background
 Shopping can be a time-consuming and exhausting task, especially when trying to manage multiple shopping lists, find discounts, and keep track of loyalty cards. Cart Companion is here to simplify the shopping experience, providing users with an all-in-one mobile application that streamlines and enhances their shopping trips.
